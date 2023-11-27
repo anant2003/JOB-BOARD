@@ -1,8 +1,8 @@
 # ![Project Image](./demo_img/project_tablet.png)
 
-# Devjobs web app
+# Job Board web app
 
-> A job board for developers showing job vacancies to job seekers. Users can search and apply for new job opportunities in their area and profession.
+> A job a website where employers can post job openings and job seekers can search and apply for jobs. Use React, Node.js a database MongoDB.
 >
 > #### Visit site to Check live demo [_here_](https://amali-devjobs.netlify.app/).
 
@@ -83,19 +83,17 @@ The Project is created with:
 
 ---
 
-[Back To The Top](#devjobs-web-app)
-
 # Setup
 
 To clone and run this application, you'll need to first have Git and Node.js (npm) installed on your computer. From your command line type the following:
 
 ## Clone this repository
 
-$ git clone https://github.com/OsmanNasirdeen/Devjobs
+$ git clone https://github.com/anant2003/JOB-BOARD
 
 ## Go into the repository
 
-$ cd ./devjobs
+$ cd ./JOB-BOARD
 
 ## Install dependencies
 
@@ -134,10 +132,6 @@ The server is built using the following technologies:
 - express
 - json data
 
-`To learn more about the server`:
-[Visit Server Github Repo](https://github.com/OsmanNasirdeen/devjobs-server)
-
-[Back To The Top](#devjobs-web-app)
 
 ## API Reference
 
@@ -176,10 +170,6 @@ const certainCategoryData = fetch(
   `https://server-devjobs.onrender.com/category/${categoryName}`
 );
 ```
-
-[Back To The Top](#devjobs-web-app)
-
----
 
 # Project Status
 
