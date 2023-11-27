@@ -197,7 +197,7 @@ Copyright (c) [2023] AmaliTech
 
 # Author
 
-- LinkedIn - [Osman Nasirdeen](https://www.linkedin.com/in/osman-nasirdeen/)
-- Github - [OsmanNasirdeen](https://github.com/OsmanNasirdeen)
+- LinkedIn - [Anant Kumar Mathur](https://www.linkedin.com/in/anant-kumar-mathur-0b0005202)
+- Github - [Anant Kumar Mathur](https://github.com/anant2003) 
 
-[Back To The Top](#devjobs-web-app)
+
